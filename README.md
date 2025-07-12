@@ -25,6 +25,6 @@ Each folder corresponds to a specific video or topic and may include:
 
 ## 📬 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/emmanueldjegou/)  
+💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)  
 📧 For feedback or collaboration inquiries, don’t hesitate to reach out.
 
