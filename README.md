@@ -21,7 +21,7 @@ Each folder corresponds to a specific video or topic and may include:
 
 ## 📺 Watch the Videos
 
-🔗 [Visit my YouTube Channel](https://www.youtube.com/@YourChannelHandle)
+🔗 [Visit my YouTube Channel](https://youtube.com/@emmanueldjegou44?si=oUouFzShQ7asV9kq)
 
 ## 📬 Connect
 
