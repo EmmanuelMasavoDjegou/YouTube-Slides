@@ -1,4 +1,4 @@
-# 🎥 YouTube Slides
+# 🎥 YouTube
 
 This repository contains slide decks used in my YouTube videos, covering a wide range of topics including:
 
